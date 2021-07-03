@@ -1,4 +1,4 @@
-# 35. Search Insert Position
+# 42. Trapping Rain Water
 
 ## Hard
 
